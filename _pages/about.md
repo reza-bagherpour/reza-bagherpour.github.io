@@ -21,5 +21,23 @@ newsletter: false
 selected_papers: false
 ---
 
+I'm John Melu, based in Tehran, Iran. Here is my educational background:
 
-I'm John Melu, based in Tehran, Iran. I hold a Bachelor’s in Software Engineering from the University of Mohaghegh Ardabili (UMA) and a Master’s in Artificial Intelligence from the University of Science and Technology of Iran (IUST). My expertise lies in artificial intelligence, machine learning, reinforcement learning, and bioinformatics. Passionate about leveraging AI to tackle complex problems, I continue to advance my research and professional contributions in these fields. 
+- **Master’s Degree:**
+  - Artificial Intelligence
+  - University of Science and Technology of Iran (IUST)
+
+- **Bachelor’s Degree:**
+  - Software Engineering
+  - University of Mohaghegh Ardabili (UMA)
+
+
+### Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Reinforcement Learning
+- Bioinformatics
+- Smart Grid Technologies
+
+
