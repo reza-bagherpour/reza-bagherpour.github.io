@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>rbagherpour72@gmail.com</p>
     <p>r_bagherpour@comp.iust.ac.ir</p>
-    <p>Tehran , Iran</p>
+    <p>+989913297066 </p>
+    <p>Tehran, Iran</p>
 
 latest_posts: false
 news: false # includes a list of news items
@@ -33,7 +34,7 @@ I'm Reza, based in Tehran, Iran. Here is my educational background:
 ##### Master’s Degree
 - **Field:** Artificial Intelligence
 - **Thesis:** Investigation of demand response programs in smart grid using reinforcement learning
-- **University:** University of Science and Technology of Iran (IUST)
+- **University:** Iran University of Science and Technology (IUST)
 
 ##### Bachelor’s Degree
 - **Field:** Software Engineering
