@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>rbagherpour72@gmail.com</p>
     <p>r_bagherpour@comp.iust.ac.ir</p>
-    <p>+989913297066</p>
     <p>Tehran, Iran</p>
 
 latest_posts: false
