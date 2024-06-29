@@ -28,6 +28,8 @@ selected_papers: false
 
 I'm Reza, based in Tehran, Iran. Here is my educational background:
 
+
+
 ### **Education**
 
 ##### Master’s Degree
@@ -41,6 +43,8 @@ I'm Reza, based in Tehran, Iran. Here is my educational background:
 - **University:** University of Mohaghegh Ardabili (UMA)
 
 
+
+
 ### **Interests**
 
 - Artificial Intelligence
@@ -48,6 +52,8 @@ I'm Reza, based in Tehran, Iran. Here is my educational background:
 - Reinforcement Learning
 - Bioinformatics
 - Smart Grid Technologies
+
+
 
 
 ### **Research and Work Experience**
