@@ -40,6 +40,7 @@ I'm Reza, based in Tehran, Iran. Here is my educational background:
 - **Thesis:** Investigation of Image Processing Toolbox in MATLAB Environment
 - **University:** University of Mohaghegh Ardabili (UMA)
 
+
 ### **Interests**
 
 - Artificial Intelligence
@@ -47,6 +48,7 @@ I'm Reza, based in Tehran, Iran. Here is my educational background:
 - Reinforcement Learning
 - Bioinformatics
 - Smart Grid Technologies
+
 
 ### **Research and Work Experience**
 
